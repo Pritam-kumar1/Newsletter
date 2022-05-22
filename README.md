@@ -3,7 +3,7 @@ It is a Newsletter site where you have a sign-up page after entering data into t
 It is ready to run on the server site.
 
 Technologies and Tools used:
-HTML/CSS, Bootstrap, JavaScript, Express, body-parse, request, Node.js, JSON.
+HTML/CSS, Bootstrap, JavaScript, Express, body-parse, request, Node.js, JSON,procfile.
 
 How To Run:
 Download the code and then after downloading you head to the command prompt and write "node app.js".
